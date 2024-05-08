@@ -1,0 +1,50 @@
+Threads: 1
+
+real	0m0.189s
+user	0m0.083s
+sys	0m0.117s
+Threads: 2
+
+real	0m0.713s
+user	0m0.086s
+sys	0m0.527s
+Threads: 3
+
+real	0m1.192s
+user	0m0.142s
+sys	0m1.592s
+Threads: 4
+
+real	0m2.286s
+user	0m0.239s
+sys	0m2.816s
+Threads: 5
+
+real	0m3.702s
+user	0m0.266s
+sys	0m4.448s
+Threads: 6
+
+real	0m4.727s
+user	0m0.395s
+sys	0m6.163s
+Threads: 7
+
+real	0m6.124s
+user	0m0.613s
+sys	0m8.659s
+Threads: 8
+
+real	0m11.538s
+user	0m0.582s
+sys	0m11.066s
+Threads: 9
+
+real	0m20.925s
+user	0m0.864s
+sys	0m12.087s
+Threads: 10
+
+real	0m26.566s
+user	0m0.922s
+sys	0m14.613s
